@@ -643,4 +643,3 @@
 .icon-user-md {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf200;&nbsp;');
 }
->>>>>>> Updated for version 2.0 of Font-Awesome.
